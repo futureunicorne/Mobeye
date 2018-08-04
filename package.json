@@ -1,0 +1,26 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "google-map-react": "^1.0.5",
+    "react": "^16.4.2",
+    "react-csv": "^1.0.14",
+    "react-dom": "^16.4.2",
+    "react-favicon": "^0.0.14",
+    "react-headroom": "^2.2.2",
+    "react-s-alert": "^1.4.1",
+    "react-scripts": "1.1.4",
+    "semantic-ui-css": "^2.3.3",
+    "semantic-ui-react": "^0.82.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "data_build": "cd src/data && python index.py",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

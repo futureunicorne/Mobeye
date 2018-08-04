@@ -1,0 +1,2039 @@
+[
+    {
+        "lat": 50.6177144, 
+        "lng": 3.1310662, 
+        "address": "Centre commercial VILLENEUVE D\u00b4ASCQ - 59650 Villeneuve-d'Ascq", 
+        "id": 0, 
+        "name": "Micromania Villeneuve-d'Ascq"
+    }, 
+    {
+        "lat": 50.0180252, 
+        "lng": 4.046972, 
+        "address": "Centre commercial CarrefourRue Th\u00e9ophile Legrand - 59610 Fourmies", 
+        "id": 1, 
+        "name": "Micromania Fourmies"
+    }, 
+    {
+        "lat": 43.345529, 
+        "lng": 3.243563, 
+        "address": "Centre commercial AUCHAN4 av Voie Domitienne - 34500 B\u00e9ziers", 
+        "id": 2, 
+        "name": "Micromania B\u00e9ziers"
+    }, 
+    {
+        "lat": 43.9825664, 
+        "lng": 4.8803487, 
+        "address": "Centre commercial AUCHAN PONTETEspace Soleil Avignon Nord N\u00b0119 - 84130 Le Pontet", 
+        "id": 3, 
+        "name": "Micromania Le Pontet"
+    }, 
+    {
+        "lat": 43.92166599999999, 
+        "lng": 4.864487, 
+        "address": "Centre commercial AUCHAN MISTRAL 7 - 84000 Avignon", 
+        "id": 4, 
+        "name": "Micromania Avignon"
+    }, 
+    {
+        "lat": 50.1471586, 
+        "lng": 3.2217633, 
+        "address": "Centre commercial Cora - Rue Georges NutinRUE GEORGES NUTTIN - 59400 Cambrai", 
+        "id": 5, 
+        "name": "Micromania Cambrai"
+    }, 
+    {
+        "lat": 50.7237039, 
+        "lng": 1.6058949, 
+        "address": "Centre commercial AUCHAN BOULOGNERN42- Local 43 - 62200 Boulogne-sur-Mer", 
+        "id": 6, 
+        "name": "Micromania Boulogne-sur-Mer"
+    }, 
+    {
+        "lat": 48.4282306, 
+        "lng": -4.468823, 
+        "address": "1, Rue Madeleine LagadecZone de l\u00b4Hermitage - 29200 Brest", 
+        "id": 7, 
+        "name": "Micromania Brest"
+    }, 
+    {
+        "lat": 48.435534, 
+        "lng": 1.446358, 
+        "address": "Centre commercial Chartres Luc\u00e9Route du Mans - 28110 Luc\u00e9", 
+        "id": 8, 
+        "name": "Micromania Luc\u00e9"
+    }, 
+    {
+        "lat": 45.1589109, 
+        "lng": 1.5338528, 
+        "address": "Centre Commercial CarrefourCENTRE COMMERCIAL CARREFOUR - 19100 Brive-la-Gaillarde", 
+        "id": 9, 
+        "name": "Micromania Brive-la-Gaillarde"
+    }, 
+    {
+        "lat": 49.20649359999999, 
+        "lng": -0.328288, 
+        "address": "Centre commercial CARREFOURSaint Clair - 14200 H\u00e9rouville-Saint-Clair", 
+        "id": 10, 
+        "name": "Micromania H\u00e9rouville-Saint-Clair"
+    }, 
+    {
+        "lat": 46.9967531, 
+        "lng": 3.1060668, 
+        "address": "Centre commercial CARREFOURRoute de Fourchambault - 58180 Marzy", 
+        "id": 11, 
+        "name": "Micromania Marzy"
+    }, 
+    {
+        "lat": 50.4599268, 
+        "lng": 2.8248851, 
+        "address": "Centre commercial CORA LENS 2RN 47 route de la Bass\u00e9e - 62880 Vendin-le-Vieil", 
+        "id": 12, 
+        "name": "Micromania Vendin-le-Vieil"
+    }, 
+    {
+        "lat": 44.6373427, 
+        "lng": -1.1532923, 
+        "address": "CENTRE COMMERCIAL CAP OCEAN - 33260 La Teste-de-Buch", 
+        "id": 13, 
+        "name": "Micromania La Teste-de-Buch"
+    }, 
+    {
+        "lat": 48.847425, 
+        "lng": 2.28424, 
+        "address": "Centre commercial BEAUGRENELLERue de Linois - 75015 Paris 15e", 
+        "id": 14, 
+        "name": "Micromania Paris 15e"
+    }, 
+    {
+        "lat": 43.61013260000001, 
+        "lng": 1.3937345, 
+        "address": "Centre commercial CARREFOUR36/54 RTE DE BAYONNE - 31000 Toulouse", 
+        "id": 15, 
+        "name": "Micromania Toulouse"
+    }, 
+    {
+        "lat": 45.1911711, 
+        "lng": 0.7627592999999999, 
+        "address": "Centre commercial LECLERCLa Feuilleraie - 24750 Tr\u00e9lissac", 
+        "id": 16, 
+        "name": "Micromania Tr\u00e9lissac"
+    }, 
+    {
+        "lat": 48.20070219999999, 
+        "lng": 6.488031200000001, 
+        "address": "Centre commercial CARREFOUR33 Rue du Saut Le Cerf - 88000 Jeuxey", 
+        "id": 17, 
+        "name": "Micromania Jeuxey"
+    }, 
+    {
+        "lat": 45.6832105, 
+        "lng": -0.3060476, 
+        "address": "Centre commercial AUCHAN COGNACROCADE DE COGNAC - 16100 Ch\u00e2teaubernard", 
+        "id": 18, 
+        "name": "Micromania Ch\u00e2teaubernard"
+    }, 
+    {
+        "lat": 50.7376504, 
+        "lng": 2.2748946, 
+        "address": "Ccial Auchan, local 23Rue Nicolas Boileau - 62219 Longuenesse", 
+        "id": 19, 
+        "name": "Micromania Longuenesse"
+    }, 
+    {
+        "lat": 50.34180509999999, 
+        "lng": 3.099669, 
+        "address": "Centre commercial AUCHANLES EPIS - 59450 Sin-le-Noble", 
+        "id": 20, 
+        "name": "Micromania Sin-le-Noble"
+    }, 
+    {
+        "lat": 50.6320393, 
+        "lng": 2.9686109, 
+        "address": "Centre commercial AUCHANRoute Nationale 352 - 59320 Englos", 
+        "id": 21, 
+        "name": "Micromania Englos"
+    }, 
+    {
+        "lat": 43.5335441, 
+        "lng": 1.4039512, 
+        "address": "Centre commercial CARREFOURBld de l\u00b4Europe - Local 85 - 31120 Portet-sur-Garonne", 
+        "id": 22, 
+        "name": "Micromania Portet-sur-Garonne"
+    }, 
+    {
+        "lat": 47.573035, 
+        "lng": 1.37522, 
+        "address": "Centre commercial AuchanZI des Gats de Coeur - 41350 Vineuil", 
+        "id": 23, 
+        "name": "Micromania Vineuil"
+    }, 
+    {
+        "lat": 47.28199559999999, 
+        "lng": 5.9944633, 
+        "address": "Centre commercial CARREFOURRUE DE CHATILLON - 25480 \u00c9cole-Valentin", 
+        "id": 24, 
+        "name": "Micromania \u00c9cole-Valentin"
+    }, 
+    {
+        "lat": 48.7566506, 
+        "lng": 2.3718687, 
+        "address": "Centre commercial BELLE EPINELocal 23 - Belle Epine 440 - 94320 Thiais", 
+        "id": 25, 
+        "name": "Micromania Thiais"
+    }, 
+    {
+        "lat": 43.6084583, 
+        "lng": 3.8847735, 
+        "address": "Centre commercial POLYGONE1, Rue des Perthuisanes Local 305 - 34000 Montpellier", 
+        "id": 26, 
+        "name": "Micromania Montpellier"
+    }, 
+    {
+        "lat": 47.816675, 
+        "lng": 3.57159, 
+        "address": "Centre commercial G\u00e9ant AuxerreAvenue Haussmann - 89000 Auxerre", 
+        "id": 27, 
+        "name": "Micromania Auxerre"
+    }, 
+    {
+        "lat": 48.591916, 
+        "lng": 7.695601000000001, 
+        "address": "Centre commercial AUCHAN HAUTEPIERREPlace Andr\u00e9 Maurois - 67000 Strasbourg", 
+        "id": 28, 
+        "name": "Micromania Strasbourg"
+    }, 
+    {
+        "lat": 45.1928949, 
+        "lng": 0.6580439, 
+        "address": "Centre commercial AuchanAvenue Louis Suder - 24430 Marsac-sur-l'Isle", 
+        "id": 29, 
+        "name": "Micromania Marsac-sur-l'Isle"
+    }, 
+    {
+        "lat": 43.3935338, 
+        "lng": 5.1351911, 
+        "address": "Centre commercial Carrefour - 13220 Ch\u00e2teauneuf-les-Martigues", 
+        "id": 30, 
+        "name": "Micromania Ch\u00e2teauneuf-les-Martigues"
+    }, 
+    {
+        "lat": 47.7762337, 
+        "lng": -3.3429809, 
+        "address": "Centre Commercial Geant Lanester - 56600 Lanester", 
+        "id": 31, 
+        "name": "Micromania Lanester"
+    }, 
+    {
+        "lat": 49.1158906, 
+        "lng": 6.174507999999999, 
+        "address": "54 / 56 rue Serpenoise - 57000 Metz", 
+        "id": 32, 
+        "name": "Micromania Metz"
+    }, 
+    {
+        "lat": 50.3570311, 
+        "lng": 3.5245718, 
+        "address": "C.Cial PLACE D'ARMES - REZ DE CHAUSSEE - 59300 Valenciennes", 
+        "id": 33, 
+        "name": "Micromania Valenciennes"
+    }, 
+    {
+        "lat": 46.78320040000001, 
+        "lng": 4.855479799999999, 
+        "address": "59 Grande Rue - 71100 Chalon-sur-Sa\u00f4ne", 
+        "id": 34, 
+        "name": "Micromania Chalon-sur-Sa\u00f4ne"
+    }, 
+    {
+        "lat": 43.52636649999999, 
+        "lng": 5.4437095, 
+        "address": "Les all\u00e9es provencales- All\u00e9e Guiseppe Verdi - 13100 Aix-en-Provence", 
+        "id": 35, 
+        "name": "Micromania Aix-en-Provence"
+    }, 
+    {
+        "lat": 49.1821908, 
+        "lng": -0.3656662, 
+        "address": "2 rue Paul Doumer - 14000 Caen", 
+        "id": 36, 
+        "name": "Micromania Caen"
+    }, 
+    {
+        "lat": 48.83633100000001, 
+        "lng": 2.2953198, 
+        "address": "365 Rue de Vaugirard - 75015 Paris 15e", 
+        "id": 37, 
+        "name": "Micromania Paris 15e"
+    }, 
+    {
+        "lat": 44.9416587, 
+        "lng": 4.91958, 
+        "address": "Centre Commercial Valence 2 - 26000 Valence", 
+        "id": 38, 
+        "name": "Micromania Valence"
+    }, 
+    {
+        "lat": 47.224173, 
+        "lng": -1.631512, 
+        "address": "Centre Commercial Leclerc Atlantis - 44800 Saint-Herblain", 
+        "id": 39, 
+        "name": "Micromania Saint-Herblain"
+    }, 
+    {
+        "lat": 45.7635456, 
+        "lng": 4.8348628, 
+        "address": "31 rue Grenette - 69001 Lyon 1er", 
+        "id": 40, 
+        "name": "Micromania Lyon 1er"
+    }, 
+    {
+        "lat": 49.4425172, 
+        "lng": 1.0888207, 
+        "address": "20 Place de la Pucelle - 76000 Rouen", 
+        "id": 41, 
+        "name": "Micromania Rouen"
+    }, 
+    {
+        "lat": 49.7726244, 
+        "lng": 4.7206699, 
+        "address": "21 Rue de la Republique - 08000 Charleville-M\u00e9zi\u00e8res", 
+        "id": 42, 
+        "name": "Micromania Charleville-M\u00e9zi\u00e8res"
+    }, 
+    {
+        "lat": 47.21503999999999, 
+        "lng": 5.947789999999999, 
+        "address": "Centre commercial Geant Casino - 25000 Besan\u00e7on", 
+        "id": 43, 
+        "name": "Micromania Besan\u00e7on"
+    }, 
+    {
+        "lat": 50.63364319999999, 
+        "lng": 3.0629293, 
+        "address": "52 rue de Bethune - 59000 Lille", 
+        "id": 44, 
+        "name": "Micromania Lille"
+    }, 
+    {
+        "lat": 43.7027121, 
+        "lng": 7.2664974, 
+        "address": "35 Avenue Jean Medecin - 06000 Nice", 
+        "id": 45, 
+        "name": "Micromania Nice"
+    }, 
+    {
+        "lat": 47.2393103, 
+        "lng": 6.0215934, 
+        "address": "9 Grande Rue - 25000 Besan\u00e7on", 
+        "id": 46, 
+        "name": "Micromania Besan\u00e7on"
+    }, 
+    {
+        "lat": 50.7237259, 
+        "lng": 1.6059321, 
+        "address": "20 rue Adolphe Thiers - 62200 Boulogne-sur-Mer", 
+        "id": 47, 
+        "name": "Micromania Boulogne-sur-Mer"
+    }, 
+    {
+        "lat": 49.2832255, 
+        "lng": 3.9992385, 
+        "address": "Centre Commercial Leclerc- Rue Croix maurencienne - 51370 Saint-Brice-Courcelles", 
+        "id": 48, 
+        "name": "Micromania Saint-Brice-Courcelles"
+    }, 
+    {
+        "lat": 48.3062087, 
+        "lng": 4.024416100000001, 
+        "address": "Centre commercial Carrefour L\u2019Escapade - 10600 La Chapelle-Saint-Luc", 
+        "id": 49, 
+        "name": "Micromania La Chapelle-Saint-Luc"
+    }, 
+    {
+        "lat": 49.4461175, 
+        "lng": 1.0654469, 
+        "address": "Centre commercial DOCKS 76 - 76000 Rouen", 
+        "id": 50, 
+        "name": "Micromania Rouen"
+    }, 
+    {
+        "lat": 47.99597180000001, 
+        "lng": -4.1034466, 
+        "address": "6 Rue Kereon - 29000 Quimper", 
+        "id": 51, 
+        "name": "Micromania Quimper"
+    }, 
+    {
+        "lat": 47.466908, 
+        "lng": -0.5230412999999999, 
+        "address": "Centre commercial GEANTEspace Anjou - 75, av. Montaigne - 49000 Angers", 
+        "id": 52, 
+        "name": "Micromania Angers"
+    }, 
+    {
+        "lat": 48.8279546, 
+        "lng": 2.1163488, 
+        "address": "Centre commercial R\u00e9gional de PARLY IINiveau bas 141 local postal 341 - 78150 Le Chesnay", 
+        "id": 53, 
+        "name": "Micromania Le Chesnay"
+    }, 
+    {
+        "lat": 48.828632, 
+        "lng": 1.961329, 
+        "address": "Centre commercial GRAND PLAISIRCh. d\u00e9partemental 161 - Local 20 - 78370 Plaisir", 
+        "id": 54, 
+        "name": "Micromania Plaisir"
+    }, 
+    {
+        "lat": 48.0793662, 
+        "lng": -0.7994603, 
+        "address": "Centre commercial La Mayenne - 53000 Laval", 
+        "id": 55, 
+        "name": "Micromania Laval"
+    }, 
+    {
+        "lat": 48.86188869999999, 
+        "lng": 2.3473911, 
+        "address": "210 Porte Lescot - 75001 Paris 1er", 
+        "id": 56, 
+        "name": "Micromania Paris 1er"
+    }, 
+    {
+        "lat": 43.5336247, 
+        "lng": 5.4194822, 
+        "address": "Centre commercial GEANTROUTE DE BERRE - 13100 Aix-en-Provence", 
+        "id": 57, 
+        "name": "Micromania Aix-en-Provence"
+    }, 
+    {
+        "lat": 48.8925978, 
+        "lng": 2.2361121, 
+        "address": "Hall RER La Grande ArcheLot 103506 - 92800 Puteaux", 
+        "id": 58, 
+        "name": "Micromania Puteaux"
+    }, 
+    {
+        "lat": 48.6767939, 
+        "lng": 2.1715273, 
+        "address": "Centre commercial LES ULISSaint Jean de Beauregard - 91940 Les Ulis", 
+        "id": 59, 
+        "name": "Micromania Les Ulis"
+    }, 
+    {
+        "lat": 48.9566504, 
+        "lng": 2.4752283, 
+        "address": "Centre commercial PARINORNiveau 1 - 93600 Aulnay-sous-Bois", 
+        "id": 60, 
+        "name": "Micromania Aulnay-sous-Bois"
+    }, 
+    {
+        "lat": 45.6209444, 
+        "lng": 5.2224999, 
+        "address": "Centre commercial CARREFOURBd DE BOURGOIN - ZAC DE ST HUBERT - BP 168 - 38080 L'Isle-d'Abeau", 
+        "id": 61, 
+        "name": "Micromania L'Isle-d'Abeau"
+    }, 
+    {
+        "lat": 48.89046750000001, 
+        "lng": 2.2359994, 
+        "address": "Centre commercial 4 TEMPS2 Le Parvis de la D\u00e9fense - 92800 Puteaux", 
+        "id": 62, 
+        "name": "Micromania Puteaux"
+    }, 
+    {
+        "lat": 43.7428324, 
+        "lng": 7.3185199, 
+        "address": "Centre commercial AUCHAN - 06340 La Trinit\u00e9", 
+        "id": 63, 
+        "name": "Micromania La Trinit\u00e9"
+    }, 
+    {
+        "lat": 49.5482327, 
+        "lng": 3.6146196, 
+        "address": "Centre commercial CARREFOURRue Romanette - 02000 Laon", 
+        "id": 64, 
+        "name": "Micromania Laon"
+    }, 
+    {
+        "lat": 45.4119041, 
+        "lng": 4.374635, 
+        "address": "Centre commercial GEANT RICAMARIELa B\u00e9raudi\u00e8re - 42150 La Ricamarie", 
+        "id": 65, 
+        "name": "Micromania La Ricamarie"
+    }, 
+    {
+        "lat": 43.658772, 
+        "lng": 7.197495, 
+        "address": "Centre commercial CAP 3000Rez de Chaus\u00e9e - 06700 Saint-Laurent-du-Var", 
+        "id": 66, 
+        "name": "Micromania Saint-Laurent-du-Var"
+    }, 
+    {
+        "lat": 50.720628, 
+        "lng": 3.1601411, 
+        "address": "Espace St ChristopheRUE DES ANGES - 59200 Tourcoing", 
+        "id": 67, 
+        "name": "Micromania Tourcoing"
+    }, 
+    {
+        "lat": 46.665238, 
+        "lng": 0.36949, 
+        "address": "Centre commercial AUCHAN CHASSENEUIL - 86360 Chasseneuil-du-Poitou", 
+        "id": 68, 
+        "name": "Micromania Chasseneuil-du-Poitou"
+    }, 
+    {
+        "lat": 48.9473239, 
+        "lng": 2.6650285, 
+        "address": "Centre commercial CARREFOUR - 77410 Claye-Souilly", 
+        "id": 69, 
+        "name": "Micromania Claye-Souilly"
+    }, 
+    {
+        "lat": 48.0835766, 
+        "lng": -1.6801894, 
+        "address": "Centre commercial ALMARue du Bosphore - 35000 Rennes", 
+        "id": 70, 
+        "name": "Micromania Rennes"
+    }, 
+    {
+        "lat": 47.3026233, 
+        "lng": -2.2081195, 
+        "address": "Centre commercial AUCHANZAC DE LA FONTAINE AU BRUN - 44570 Trignac", 
+        "id": 71, 
+        "name": "Micromania Trignac"
+    }, 
+    {
+        "lat": 43.5054933, 
+        "lng": 5.3968899, 
+        "address": "Centre commercial CARREFOUR LES MILLES1175 rue G du Vair - 13290 Aix-en-Provence", 
+        "id": 72, 
+        "name": "Micromania Aix-en-Provence"
+    }, 
+    {
+        "lat": 50.7382469, 
+        "lng": 3.1367635, 
+        "address": "Centre commercial AUCHANLocal 208 - Bd Halluin - 59223 Roncq", 
+        "id": 73, 
+        "name": "Micromania Roncq"
+    }, 
+    {
+        "lat": 43.6019264, 
+        "lng": 1.443482, 
+        "address": "5 rue Saint Rome - 31000 Toulouse", 
+        "id": 74, 
+        "name": "Micromania Toulouse"
+    }, 
+    {
+        "lat": 49.23244889999999, 
+        "lng": 2.4692148, 
+        "address": "CCal CoraRN 16 - 60740 Saint-Maximin", 
+        "id": 75, 
+        "name": "Micromania Saint-Maximin"
+    }, 
+    {
+        "lat": 43.3296692, 
+        "lng": 5.4027951, 
+        "address": "Centre commercial CARREFOUR LE MERLANAvenue Raimu - 13014 Marseille 14e", 
+        "id": 76, 
+        "name": "Micromania Marseille 14e"
+    }, 
+    {
+        "lat": 48.1049215, 
+        "lng": -1.6810755, 
+        "address": "Centre commercial COLOMBIA40 Place du Colombier - 35000 Rennes", 
+        "id": 77, 
+        "name": "Micromania Rennes"
+    }, 
+    {
+        "lat": 49.4706178, 
+        "lng": 1.0941315, 
+        "address": "Centre commercial CARREFOURZAC DE LA VATINE - 76130 Mont-Saint-Aignan", 
+        "id": 78, 
+        "name": "Micromania Mont-Saint-Aignan"
+    }, 
+    {
+        "lat": 48.79383079999999, 
+        "lng": 2.5546258, 
+        "address": "Centre commercial CARREFOUR ORMESSON85 ROUTE DE PROVINS - RN 4 - 94430 Chennevi\u00e8res-sur-Marne", 
+        "id": 79, 
+        "name": "Micromania Chennevi\u00e8res-sur-Marne"
+    }, 
+    {
+        "lat": 50.3001369, 
+        "lng": 2.7308506, 
+        "address": "Centre commercial AUCHANCENTRE COMMERCIAL AUCHAN - 62000 Arras", 
+        "id": 80, 
+        "name": "Micromania Arras"
+    }, 
+    {
+        "lat": 48.297576, 
+        "lng": 4.131000999999999, 
+        "address": "Centre commercial LECLERCAV DU GENERAL DE GAULLE - RN 19 - 10410 Saint-Parres-aux-Tertres", 
+        "id": 81, 
+        "name": "Micromania Saint-Parres-aux-Tertres"
+    }, 
+    {
+        "lat": 49.354662, 
+        "lng": 6.1416336, 
+        "address": "Centre commercial GERICRue du Maillet - Local B 29 - 57100 Thionville", 
+        "id": 82, 
+        "name": "Micromania Thionville"
+    }, 
+    {
+        "lat": 46.34141, 
+        "lng": -0.3832024, 
+        "address": "Centre commercial GEANTRoute de Paris - 79000 Niort", 
+        "id": 83, 
+        "name": "Micromania Niort"
+    }, 
+    {
+        "lat": 45.5841879, 
+        "lng": 4.7532481, 
+        "address": "Centre commercial GIVORS 2 VALLEESZI de la vall\u00e9e du Giers - 69700 Givors", 
+        "id": 84, 
+        "name": "Micromania Givors"
+    }, 
+    {
+        "lat": 43.6880197, 
+        "lng": 1.4015044, 
+        "address": "Centre commercial GEANT FENOUILLETRN20 ZI Saint JORY - 31150 Fenouillet", 
+        "id": 85, 
+        "name": "Micromania Fenouillet"
+    }, 
+    {
+        "lat": 45.4417008, 
+        "lng": 4.4199475, 
+        "address": "Centre commercial G\u00e9ant Monthieu - 42000 Saint-\u00c9tienne", 
+        "id": 86, 
+        "name": "Micromania Saint-\u00c9tienne"
+    }, 
+    {
+        "lat": 49.43981890000001, 
+        "lng": 1.0932865, 
+        "address": "50, Rue du Grand Pont - 76000 Rouen", 
+        "id": 87, 
+        "name": "Micromania Rouen"
+    }, 
+    {
+        "lat": 43.6350405, 
+        "lng": 6.9506029, 
+        "address": "Centre commercial AUCHAN LA PAOUTE158 ROUTE DE CANNES - 06130 Grasse", 
+        "id": 88, 
+        "name": "Micromania Grasse"
+    }, 
+    {
+        "lat": 49.8665676, 
+        "lng": 2.3766371, 
+        "address": "Centre commercial GEANT GLISYZAC de la Croix de Fer - 80440 Glisy", 
+        "id": 89, 
+        "name": "Micromania Glisy"
+    }, 
+    {
+        "lat": 49.2545859, 
+        "lng": 3.9797657, 
+        "address": "Centre commercial CARREFOURRN 31 - 51430 Tinqueux", 
+        "id": 90, 
+        "name": "Micromania Tinqueux"
+    }, 
+    {
+        "lat": 45.7159596, 
+        "lng": 4.876666, 
+        "address": "Centre Commercial CARREFOUR136 Bd Ir\u00e8ne Joliot Curie - 69200 V\u00e9nissieux", 
+        "id": 91, 
+        "name": "Micromania V\u00e9nissieux"
+    }, 
+    {
+        "lat": 48.88115250000001, 
+        "lng": 2.4732599, 
+        "address": "Centre commercial ROSNY 2 - 93110 Rosny-sous-Bois", 
+        "id": 92, 
+        "name": "Micromania Rosny-sous-Bois"
+    }, 
+    {
+        "lat": 48.0066189, 
+        "lng": 0.1991924, 
+        "address": "Centre commercial Les Jacobins13, Rue Blondeau - 72000 Le Mans", 
+        "id": 93, 
+        "name": "Micromania Le Mans"
+    }, 
+    {
+        "lat": 49.5369451, 
+        "lng": 0.967328, 
+        "address": "Centre commercial CARREFOURMesnil Roux - 76360 Barentin", 
+        "id": 94, 
+        "name": "Micromania Barentin"
+    }, 
+    {
+        "lat": 50.93374, 
+        "lng": 1.809074, 
+        "address": "Centre commercial CITE EUROPELocal 211 - 62231 Coquelles", 
+        "id": 95, 
+        "name": "Micromania Coquelles"
+    }, 
+    {
+        "lat": 48.8328582, 
+        "lng": 7.7417236, 
+        "address": "Centre commercial AUCHANZI RN 62 - 67590 Schweighouse-sur-Moder", 
+        "id": 96, 
+        "name": "Micromania Schweighouse-sur-Moder"
+    }, 
+    {
+        "lat": 49.410047, 
+        "lng": 2.1159166, 
+        "address": "Centre commercial Auchan1, Avenue Descartes - 60000 Beauvais", 
+        "id": 97, 
+        "name": "Micromania Beauvais"
+    }, 
+    {
+        "lat": 47.4897214, 
+        "lng": -0.5418583000000001, 
+        "address": "Centre commercial SAINT SERGEBOULEVARD GASTON RAMON - 49000 Angers", 
+        "id": 98, 
+        "name": "Micromania Angers"
+    }, 
+    {
+        "lat": 45.158158, 
+        "lng": 5.731907, 
+        "address": "Centre commercial Grand Place55 Grand Place - 38000 Grenoble", 
+        "id": 99, 
+        "name": "Micromania Grenoble"
+    }, 
+    {
+        "lat": 50.5821001, 
+        "lng": 3.0801696, 
+        "address": "Centre commercial AuchanRoute de Vendeville - 59155 Faches-Thumesnil", 
+        "id": 100, 
+        "name": "Micromania Faches-Thumesnil"
+    }, 
+    {
+        "lat": 42.7023999, 
+        "lng": 2.943201, 
+        "address": "Centre Commercial Ch\u00e2teau RoussillonRoute du Canet - 66000 Perpignan", 
+        "id": 101, 
+        "name": "Micromania Perpignan"
+    }, 
+    {
+        "lat": 49.860533, 
+        "lng": 3.252341, 
+        "address": "Centre commercial LE FAYETRoute nationale - 02100 Fayet", 
+        "id": 102, 
+        "name": "Micromania Fayet"
+    }, 
+    {
+        "lat": 49.1111863, 
+        "lng": 6.693586799999999, 
+        "address": "Centre commercial CORAZone commerciale de Heckenvald - 57740 Longeville-l\u00e8s-Saint-Avold", 
+        "id": 103, 
+        "name": "Micromania Longeville-l\u00e8s-Saint-Avold"
+    }, 
+    {
+        "lat": 48.3884437, 
+        "lng": -4.5259049, 
+        "address": "Centre commercial IROISE126 BD PLYMOUTH - 29200 Brest", 
+        "id": 104, 
+        "name": "Micromania Brest"
+    }, 
+    {
+        "lat": 49.5439117, 
+        "lng": 5.797281799999999, 
+        "address": "Centre commercial AUCHAN P\u00f4le EuropeRue du Faisceau - 54350 Mont-Saint-Martin", 
+        "id": 105, 
+        "name": "Micromania Mont-Saint-Martin"
+    }, 
+    {
+        "lat": 43.7066059, 
+        "lng": 7.2863263, 
+        "address": "Ccial Nice TNL15 bd G\u00e9n Louis Delfino - 06000 Nice", 
+        "id": 106, 
+        "name": "Micromania Nice"
+    }, 
+    {
+        "lat": 47.9038864, 
+        "lng": 1.8610454, 
+        "address": "Centre commercial AUCHAN LES 3 FONTAINESAvenue Pierre Mend\u00e8s France - 45140 Saint-Jean-de-la-Ruelle", 
+        "id": 107, 
+        "name": "Micromania Saint-Jean-de-la-Ruelle"
+    }, 
+    {
+        "lat": 44.937935, 
+        "lng": 4.865602, 
+        "address": "Ccial Auchan1449, avenue de la R\u00e9publique - 07500 Guilherand-Granges", 
+        "id": 108, 
+        "name": "Micromania Guilherand-Granges"
+    }, 
+    {
+        "lat": 43.70156730000001, 
+        "lng": 7.2678156, 
+        "address": "Centre commercial NICE ETOILENiveau -1 - 06000 Nice", 
+        "id": 109, 
+        "name": "Micromania Nice"
+    }, 
+    {
+        "lat": 48.1269506, 
+        "lng": 7.3687363, 
+        "address": "Centre commercial CORA HOUSSEN - 68125 Houssen", 
+        "id": 110, 
+        "name": "Micromania Houssen"
+    }, 
+    {
+        "lat": 48.8412886, 
+        "lng": 2.3202086, 
+        "address": "Gare Paris MontparnasseHall Vasarely - 17 rue de Vaugirard - 75015 Paris 15e", 
+        "id": 111, 
+        "name": "Micromania Paris 15e"
+    }, 
+    {
+        "lat": 48.5852973, 
+        "lng": 2.3036751, 
+        "address": "Centre commercial Maison Neuve - 91220 Br\u00e9tigny-sur-Orge", 
+        "id": 112, 
+        "name": "Micromania Br\u00e9tigny-sur-Orge"
+    }, 
+    {
+        "lat": 48.4994887, 
+        "lng": 2.5840973, 
+        "address": "Centre commercial CARREFOURRN7 - Local 77 - BP 23 - 77190 Dammarie-les-Lys", 
+        "id": 113, 
+        "name": "Micromania Dammarie-les-Lys"
+    }, 
+    {
+        "lat": 44.8660696, 
+        "lng": -0.517629, 
+        "address": "Centre commercial CarrefourLes quatres Pavillons - 33310 Lormont", 
+        "id": 114, 
+        "name": "Micromania Lormont"
+    }, 
+    {
+        "lat": 43.60376340000001, 
+        "lng": 7.089982699999999, 
+        "address": "Centre commercial CARREFOURChemin de Saint-Claude - 06600 Antibes", 
+        "id": 115, 
+        "name": "Micromania Antibes"
+    }, 
+    {
+        "lat": 47.191192, 
+        "lng": -1.493565, 
+        "address": "Centre commercial AUCHANRue Pierre Mendes France - Local 45 - 44230 Saint-S\u00e9bastien-sur-Loire", 
+        "id": 116, 
+        "name": "Micromania Saint-S\u00e9bastien-sur-Loire"
+    }, 
+    {
+        "lat": 49.1056596, 
+        "lng": 6.2273838, 
+        "address": "Centre Commercial CORABd de la Solidarit\u00e9 - 57000 Metz", 
+        "id": 117, 
+        "name": "Micromania Metz"
+    }, 
+    {
+        "lat": 48.8382324, 
+        "lng": 2.661891, 
+        "address": "Centre commercial CARREFOURLot 9 BIS Avenue de Lingenfeld - 77200 Torcy", 
+        "id": 118, 
+        "name": "Micromania Torcy"
+    }, 
+    {
+        "lat": 48.9251541, 
+        "lng": 2.2919962, 
+        "address": "Centre commercial CARREFOUR21-23 RUE LOUIS CALMEL - 92230 Gennevilliers", 
+        "id": 119, 
+        "name": "Micromania Gennevilliers"
+    }, 
+    {
+        "lat": 43.4878901, 
+        "lng": -1.4990145, 
+        "address": "Centre Commercial BAB26 rue Jean L\u00e9on Laporte - 64600 Anglet", 
+        "id": 120, 
+        "name": "Micromania Anglet"
+    }, 
+    {
+        "lat": 47.3102329, 
+        "lng": 5.1066912, 
+        "address": "Centre commercial CARREFOURAvenue de Bourgogne - 21800 Quetigny", 
+        "id": 121, 
+        "name": "Micromania Quetigny"
+    }, 
+    {
+        "lat": 10.1517834, 
+        "lng": 76.392958, 
+        "address": "C.Cial PLACE D\u00b4ARMES - NIVEAU REZ DE CHAUSSEERUE DERRIERE LA TOUR - 59300 Valenciennes", 
+        "id": 122, 
+        "name": "Micromania Valenciennes"
+    }, 
+    {
+        "lat": 47.205259, 
+        "lng": -1.534586, 
+        "address": "Centre commercial de BEAULIEU - 44000 Nantes", 
+        "id": 123, 
+        "name": "Micromania Nantes"
+    }, 
+    {
+        "lat": 43.5668792, 
+        "lng": 3.8499909, 
+        "address": "Centre commercial CarrefourRoute S\u00e8te - 34430 Saint-Jean-de-V\u00e9das", 
+        "id": 124, 
+        "name": "Micromania Saint-Jean-de-V\u00e9das"
+    }, 
+    {
+        "lat": 49.2553333, 
+        "lng": 4.0283785, 
+        "address": "15 rue de l\u00b4Etape - 51100 Reims", 
+        "id": 125, 
+        "name": "Micromania Reims"
+    }, 
+    {
+        "lat": 48.5784606, 
+        "lng": 6.5207688, 
+        "address": "Centre commercial CORARue du Tuillier - 54300 Moncel-l\u00e8s-Lun\u00e9ville", 
+        "id": 126, 
+        "name": "Micromania Moncel-l\u00e8s-Lun\u00e9ville"
+    }, 
+    {
+        "lat": 45.924626, 
+        "lng": -0.9586069999999999, 
+        "address": "centre commercial Leclerc11, Boulevard du 11 Novembre - 17300 Rochefort", 
+        "id": 127, 
+        "name": "Micromania Rochefort"
+    }, 
+    {
+        "lat": 48.7769754, 
+        "lng": 2.6088343, 
+        "address": "Centre commercial CARREFOURRN4 - Local 43 - 77340 Pontault-Combault", 
+        "id": 128, 
+        "name": "Micromania Pontault-Combault"
+    }, 
+    {
+        "lat": 47.7482524, 
+        "lng": -3.3702449, 
+        "address": "CCial KZ LorientLocal n\u00b07 - 56100 Lorient", 
+        "id": 129, 
+        "name": "Micromania Lorient"
+    }, 
+    {
+        "lat": 48.811115, 
+        "lng": 2.328915, 
+        "address": "Centre commercial La Vache Noire1 place de la Vache Noire - 94110 Arcueil", 
+        "id": 130, 
+        "name": "Micromania Arcueil"
+    }, 
+    {
+        "lat": 43.2938562, 
+        "lng": 5.5920402, 
+        "address": "Centre commercial AUCHANLes Paluds - 13400 Aubagne", 
+        "id": 131, 
+        "name": "Micromania Aubagne"
+    }, 
+    {
+        "lat": 48.9811121, 
+        "lng": 1.6844817, 
+        "address": "Centre commercial AUCHAN - 78200 Buchelay", 
+        "id": 132, 
+        "name": "Micromania Buchelay"
+    }, 
+    {
+        "lat": 43.341486, 
+        "lng": 3.2613246, 
+        "address": "Ccial G\u00e9antZac de Montimaran - 34500 B\u00e9ziers", 
+        "id": 133, 
+        "name": "Micromania B\u00e9ziers"
+    }, 
+    {
+        "lat": 47.3387828, 
+        "lng": 0.7002068, 
+        "address": "Centre commercial la VrillonnerieRoute de Joue - 37170 Chambray-l\u00e8s-Tours", 
+        "id": 134, 
+        "name": "Micromania Chambray-l\u00e8s-Tours"
+    }, 
+    {
+        "lat": 47.6593192, 
+        "lng": -2.7915743, 
+        "address": "Centre commercial CONTINENTLE FOURCHENE - 56000 Vannes", 
+        "id": 135, 
+        "name": "Micromania Vannes"
+    }, 
+    {
+        "lat": 46.3391375, 
+        "lng": 2.5676823, 
+        "address": "Route de Gueret Terre Neuve - 03410 Dom\u00e9rat", 
+        "id": 136, 
+        "name": "Micromania Dom\u00e9rat"
+    }, 
+    {
+        "lat": 44.8806343, 
+        "lng": -0.5648288, 
+        "address": "Centre commercial BORDEAUX LAC - 33000 Bordeaux", 
+        "id": 137, 
+        "name": "Micromania Bordeaux"
+    }, 
+    {
+        "lat": 50.4950707, 
+        "lng": 2.5683279, 
+        "address": "Centre commercial CORA BRUAY1115 avenue de la Lib\u00e9ration - 62700 Bruay-la-Buissi\u00e8re", 
+        "id": 138, 
+        "name": "Micromania Bruay-la-Buissi\u00e8re"
+    }, 
+    {
+        "lat": 43.2487572, 
+        "lng": 5.389538, 
+        "address": "Centre commercial BONNEVEINE112 Av de Hambourg - 13008 Marseille 8e", 
+        "id": 139, 
+        "name": "Micromania Marseille 8e"
+    }, 
+    {
+        "lat": 48.9092802, 
+        "lng": 2.0343505, 
+        "address": "Centre commercial CARREFOURRoute des Mantes - 78240 Chambourcy", 
+        "id": 140, 
+        "name": "Micromania Chambourcy"
+    }, 
+    {
+        "lat": 43.1227284, 
+        "lng": 5.876942, 
+        "address": "55 chemin Bouy\u00e8re - 83190 Ollioules", 
+        "id": 141, 
+        "name": "Micromania Ollioules"
+    }, 
+    {
+        "lat": 47.378352, 
+        "lng": 0.6560230000000001, 
+        "address": "Centre commercial GEANTZAC Les Minimes - 37520 La Riche", 
+        "id": 142, 
+        "name": "Micromania La Riche"
+    }, 
+    {
+        "lat": 46.1110555, 
+        "lng": -1.1053377, 
+        "address": "Centre Commercial CARREFOURRN137 - 17690 Angoulins", 
+        "id": 143, 
+        "name": "Micromania Angoulins"
+    }, 
+    {
+        "lat": 45.618849, 
+        "lng": 0.1057212, 
+        "address": "ROUTE DE BORDEAUX - 16400 La Couronne", 
+        "id": 144, 
+        "name": "Micromania La Couronne"
+    }, 
+    {
+        "lat": 43.583049, 
+        "lng": 3.929436, 
+        "address": "Centre commercial PLEIN SUD AUCHANRoute de Carnon - 34470 P\u00e9rols", 
+        "id": 145, 
+        "name": "Micromania P\u00e9rols"
+    }, 
+    {
+        "lat": 49.0401854, 
+        "lng": 2.3415685, 
+        "address": "Centre Commercial LECLERCRN1 - 95570 Moisselles", 
+        "id": 146, 
+        "name": "Micromania Moisselles"
+    }, 
+    {
+        "lat": 45.826154, 
+        "lng": 4.9956225, 
+        "address": "Centre commercial BEYNOST 2ZAC des BATERSES - 01700 Beynost", 
+        "id": 147, 
+        "name": "Micromania Beynost"
+    }, 
+    {
+        "lat": 48.7489674, 
+        "lng": 1.345414, 
+        "address": "Centre commercial CORA DREUX OUESTRUE DES BAS BUISSONS - ZI LES LIVRAINDIERES - 28100 Dreux", 
+        "id": 148, 
+        "name": "Micromania Dreux"
+    }, 
+    {
+        "lat": 43.5314977, 
+        "lng": 6.9325632, 
+        "address": "Centre commercial GEANT QUARTIER DE MINELLERoute de Fr\u00e9jus - 06210 Mandelieu-la-Napoule", 
+        "id": 149, 
+        "name": "Micromania Mandelieu-la-Napoule"
+    }, 
+    {
+        "lat": 49.204126, 
+        "lng": 4.0152079, 
+        "address": "Centre commercial LeclercRoute Nationale 51 - 51500 Champfleury", 
+        "id": 150, 
+        "name": "Micromania Champfleury"
+    }, 
+    {
+        "lat": 43.5039541, 
+        "lng": 6.482573899999999, 
+        "address": "RN 5551303 Route de Draguignan - 83720 Trans-en-Provence", 
+        "id": 151, 
+        "name": "Micromania Trans-en-Provence"
+    }, 
+    {
+        "lat": 49.6030126, 
+        "lng": -1.600204, 
+        "address": "CCial Cotentin - 50470 La Glacerie", 
+        "id": 152, 
+        "name": "Micromania La Glacerie"
+    }, 
+    {
+        "lat": 48.8465845, 
+        "lng": 2.3262614, 
+        "address": "126, Rue de Rennes - 75006 Paris 6e", 
+        "id": 153, 
+        "name": "Micromania Paris 6e"
+    }, 
+    {
+        "lat": 44.9068037, 
+        "lng": -0.4891911, 
+        "address": "Centre commercial GRAND TOURAvenue de l\u00b4Aquitaine - 33560 Sainte-Eulalie", 
+        "id": 154, 
+        "name": "Micromania Sainte-Eulalie"
+    }, 
+    {
+        "lat": 50.633989, 
+        "lng": 3.063184, 
+        "address": "40/42, rue de B\u00e9thune - 59000 Lille", 
+        "id": 155, 
+        "name": "Micromania Lille"
+    }, 
+    {
+        "lat": 49.5064071, 
+        "lng": 0.2195902, 
+        "address": "Ccial OceaneZac Camp Dolent - 76700 Gonfreville-l'Orcher", 
+        "id": 156, 
+        "name": "Micromania Gonfreville-l'Orcher"
+    }, 
+    {
+        "lat": 43.4322591, 
+        "lng": 5.2599995, 
+        "address": "Centre commercial GRAND VITROLLESQuartier du Griffon - RN 113 - 13127 Vitrolles", 
+        "id": 157, 
+        "name": "Micromania Vitrolles"
+    }, 
+    {
+        "lat": 49.02218, 
+        "lng": 1.134252, 
+        "address": "Centre commercial CoraBoulevard de Normandie - 27000 \u00c9vreux", 
+        "id": 158, 
+        "name": "Micromania \u00c9vreux"
+    }, 
+    {
+        "lat": 43.6318264, 
+        "lng": 1.4847519, 
+        "address": "Centre commercial OCCITANIAChemin de Gabarie - 31000 Toulouse", 
+        "id": 159, 
+        "name": "Micromania Toulouse"
+    }, 
+    {
+        "lat": 48.85509829999999, 
+        "lng": 2.7800922, 
+        "address": "CCial Val d\u00b4EuropeEspace 644 Zac du centre urbain val d\u00b4Europe - 77700 Serris", 
+        "id": 160, 
+        "name": "Micromania Serris"
+    }, 
+    {
+        "lat": 48.7151022, 
+        "lng": 2.4377424, 
+        "address": "Centre commercial AUCHAN VAL D\u00b4OLY8 Rue Longueraie - 91270 Vigneux-sur-Seine", 
+        "id": 161, 
+        "name": "Micromania Vigneux-sur-Seine"
+    }, 
+    {
+        "lat": 44.8367683, 
+        "lng": 0.4454131, 
+        "address": "Centre commercial LECLERCRives de Dordogne - 24100 Bergerac", 
+        "id": 162, 
+        "name": "Micromania Bergerac"
+    }, 
+    {
+        "lat": 45.2391522, 
+        "lng": 5.663795299999999, 
+        "address": "Centre commercial CARREFOUR1 rue des Abattoirs - 38120 Saint-\u00c9gr\u00e8ve", 
+        "id": 163, 
+        "name": "Micromania Saint-\u00c9gr\u00e8ve"
+    }, 
+    {
+        "lat": 49.1651797, 
+        "lng": -0.2924762, 
+        "address": "Centre commercial MONDEVEILLE 2Local 50 - 14120 Mondeville", 
+        "id": 164, 
+        "name": "Micromania Mondeville"
+    }, 
+    {
+        "lat": 48.4319171, 
+        "lng": 0.0612363, 
+        "address": "Centre commercial CarrefourRoute de Rennes - 61250 Cond\u00e9-sur-Sarthe", 
+        "id": 165, 
+        "name": "Micromania Cond\u00e9-sur-Sarthe"
+    }, 
+    {
+        "lat": 50.405127, 
+        "lng": 1.5995211, 
+        "address": "Centre commercial CARREFOUR LA VERTE VIGOGNE940, AVENUE DE VERDUN - 62600 Berck", 
+        "id": 166, 
+        "name": "Micromania Berck"
+    }, 
+    {
+        "lat": 50.5250255, 
+        "lng": 2.630705, 
+        "address": "Rue du docteur Dh\u00e9nin - 62400 B\u00e9thune", 
+        "id": 167, 
+        "name": "Micromania B\u00e9thune"
+    }, 
+    {
+        "lat": 45.5921665, 
+        "lng": 5.9008641, 
+        "address": "Centre commercial CHAMNORD1097, AV LANDIERS - 73000 Chamb\u00e9ry", 
+        "id": 168, 
+        "name": "Micromania Chamb\u00e9ry"
+    }, 
+    {
+        "lat": 48.94870299999999, 
+        "lng": 2.526533, 
+        "address": "Centre commercial BEAU SEVRANRte des Petits Ponts - 93270 Sevran", 
+        "id": 169, 
+        "name": "Micromania Sevran"
+    }, 
+    {
+        "lat": 46.5517678, 
+        "lng": 0.29975, 
+        "address": "Centre Commercial AUCHAN POITIERS SUD250 avenue du 8 mai 45 - 86000 Poitiers", 
+        "id": 170, 
+        "name": "Micromania Poitiers"
+    }, 
+    {
+        "lat": 45.680602, 
+        "lng": 4.791647999999999, 
+        "address": "Centre commercial SAINT GENIS 2Local 2 - 69230 Saint-Genis-Laval", 
+        "id": 171, 
+        "name": "Micromania Saint-Genis-Laval"
+    }, 
+    {
+        "lat": 43.8188754, 
+        "lng": 4.3916039, 
+        "address": "Centre commercial NIMES SUDAvenue Pierre Mendes France - 30000 N\u00eemes", 
+        "id": 172, 
+        "name": "Micromania N\u00eemes"
+    }, 
+    {
+        "lat": 45.4737798, 
+        "lng": 4.3432796, 
+        "address": "Centre commercial AUCHAN VILLARSPorte du Forez Chemin de Montravel - 42390 Villars", 
+        "id": 173, 
+        "name": "Micromania Villars"
+    }, 
+    {
+        "lat": 50.10007710000001, 
+        "lng": 1.8583068, 
+        "address": "Centre commercial GEANT1 AVENUE VINCENT AURIOL - 80100 Abbeville", 
+        "id": 174, 
+        "name": "Micromania Abbeville"
+    }, 
+    {
+        "lat": 47.380064, 
+        "lng": 0.7157768999999999, 
+        "address": "Centre commercial LES ATLANTES - 37700 Saint-Pierre-des-Corps", 
+        "id": 175, 
+        "name": "Micromania Saint-Pierre-des-Corps"
+    }, 
+    {
+        "lat": 48.87755689999999, 
+        "lng": 2.6121047, 
+        "address": "Centre commercial CARREFOURAvenue Gendarme Casterman RN 34 - 77500 Chelles", 
+        "id": 176, 
+        "name": "Micromania Chelles"
+    }, 
+    {
+        "lat": 50.944381, 
+        "lng": 1.8084148, 
+        "address": "Centre commercial AuchanRN1 - Avenue Roger Salengro - 62100 Calais", 
+        "id": 177, 
+        "name": "Micromania Calais"
+    }, 
+    {
+        "lat": 48.7846109, 
+        "lng": 2.0435775, 
+        "address": "Centre commercial Saint Quentin Ville10, rue Colbert - 78180 Montigny-le-Bretonneux", 
+        "id": 178, 
+        "name": "Micromania Montigny-le-Bretonneux"
+    }, 
+    {
+        "lat": 48.9460116, 
+        "lng": 2.1967936, 
+        "address": "Centre commercial Carrefour du PlateauAvenue Robert SCHUMAN - 78500 Sartrouville", 
+        "id": 179, 
+        "name": "Micromania Sartrouville"
+    }, 
+    {
+        "lat": 43.8791313, 
+        "lng": 4.3770704, 
+        "address": "Centre commercial GEANTLot 19 Lieu dit Le Mas de Vignobles - 30000 N\u00eemes", 
+        "id": 180, 
+        "name": "Micromania N\u00eemes"
+    }, 
+    {
+        "lat": 46.79825899999999, 
+        "lng": 0.5294898, 
+        "address": "Centre commercial AUCHANAvenue Jean Moulin - 86100 Ch\u00e2tellerault", 
+        "id": 181, 
+        "name": "Micromania Ch\u00e2tellerault"
+    }, 
+    {
+        "lat": 43.4148094, 
+        "lng": 5.3624564, 
+        "address": "Centre commercial GEANT CASINO - 13170 Les Pennes-Mirabeau", 
+        "id": 182, 
+        "name": "Micromania Les Pennes-Mirabeau"
+    }, 
+    {
+        "lat": 48.8789697, 
+        "lng": 2.2941408, 
+        "address": "1, avenue Niel - 75017 Paris 17e", 
+        "id": 183, 
+        "name": "Micromania Paris 17e"
+    }, 
+    {
+        "lat": 48.86557680000001, 
+        "lng": 2.4154157, 
+        "address": "Centre commercial BEL EST26 av du G\u00e9n\u00e9ral de Gaulle - 93170 Bagnolet", 
+        "id": 184, 
+        "name": "Micromania Bagnolet"
+    }, 
+    {
+        "lat": 49.0140584, 
+        "lng": 2.2207775, 
+        "address": "Centre commercial LES PORTES DE TAVERNYLot 28 - 95150 Taverny", 
+        "id": 185, 
+        "name": "Micromania Taverny"
+    }, 
+    {
+        "lat": 48.7808091, 
+        "lng": 2.221657, 
+        "address": "Centre commercial VELIZY 2 - 78140 V\u00e9lizy-Villacoublay", 
+        "id": 186, 
+        "name": "Micromania V\u00e9lizy-Villacoublay"
+    }, 
+    {
+        "lat": 43.4244433, 
+        "lng": 6.7336445, 
+        "address": "Centre Commercial G\u00e9ant Casino480, Avenue Eug\u00e8ne Joly - 83600 Fr\u00e9jus", 
+        "id": 187, 
+        "name": "Micromania Fr\u00e9jus"
+    }, 
+    {
+        "lat": 43.364232, 
+        "lng": 5.34915, 
+        "address": "Centre commercial GRAND LITTORAL11, Avenue Saint Antoine - 13015 Marseille 15e", 
+        "id": 188, 
+        "name": "Micromania Marseille 15e"
+    }, 
+    {
+        "lat": 45.9395111, 
+        "lng": 6.079566799999999, 
+        "address": "Centre commercial GRAND EPAGNY2AC de la Mandalaz - Local 54 - 74330 \u00c9pagny", 
+        "id": 189, 
+        "name": "Micromania \u00c9pagny"
+    }, 
+    {
+        "lat": 48.8303193, 
+        "lng": 2.3552186, 
+        "address": "Centre commercial ITALIE 230, Avenue D\u00b4Italie - boite 1031 - 75013 Paris 13e", 
+        "id": 190, 
+        "name": "Micromania Paris 13e"
+    }, 
+    {
+        "lat": 49.4090842, 
+        "lng": 2.7821615, 
+        "address": "Centre commercial CARREFOUR6 Av Europe - 60200 Venette", 
+        "id": 191, 
+        "name": "Micromania Venette"
+    }, 
+    {
+        "lat": 45.713658, 
+        "lng": 3.155086, 
+        "address": "Centre commercial AUBIERE PLEIN SUDRoute d\u00b4Issoire - 63170 Aubi\u00e8re", 
+        "id": 192, 
+        "name": "Micromania Aubi\u00e8re"
+    }, 
+    {
+        "lat": 43.5900164, 
+        "lng": 2.1870193, 
+        "address": "Centre Commercial AUCHANROUTE DE TOULOUSE - 81100 Castres", 
+        "id": 193, 
+        "name": "Micromania Castres"
+    }, 
+    {
+        "lat": 48.544592, 
+        "lng": 7.740633999999999, 
+        "address": "Centre commercial AUCHAN6 route de Strasbourg -Local 45 - 67400 Illkirch-Graffenstaden", 
+        "id": 194, 
+        "name": "Micromania Illkirch-Graffenstaden"
+    }, 
+    {
+        "lat": 46.1810413, 
+        "lng": 6.232262899999999, 
+        "address": "Centre commercial SHOPPING21 Chemin de l\u00b4Industrie - 74100 \u00c9trembi\u00e8res", 
+        "id": 195, 
+        "name": "Micromania \u00c9trembi\u00e8res"
+    }, 
+    {
+        "lat": 48.9659287, 
+        "lng": 1.8624041, 
+        "address": "Centre commercial CARREFOUR5 Rue R Renault - 78410 Flins-sur-Seine", 
+        "id": 196, 
+        "name": "Micromania Flins-sur-Seine"
+    }, 
+    {
+        "lat": 43.6664591, 
+        "lng": 1.5148044, 
+        "address": "Centre commercial LECLERCRN 88, Route d\u00b4Albi - 31180 Rouffiac-Tolosan", 
+        "id": 197, 
+        "name": "Micromania Rouffiac-Tolosan"
+    }, 
+    {
+        "lat": 48.9450183, 
+        "lng": 4.382715, 
+        "address": "Ccial Croix Dampierre - 51000 Ch\u00e2lons-en-Champagne", 
+        "id": 198, 
+        "name": "Micromania Ch\u00e2lons-en-Champagne"
+    }, 
+    {
+        "lat": 50.6515019, 
+        "lng": 2.9775491, 
+        "address": "Centre commercial CARREFOUR130, RUE DU GRAND BUT - 59160 Lomme", 
+        "id": 199, 
+        "name": "Micromania Lomme"
+    }, 
+    {
+        "lat": 48.7120588, 
+        "lng": 2.3727265, 
+        "address": "Centre commercial CARREFOUR180 RN7 - 91200 Athis-Mons", 
+        "id": 200, 
+        "name": "Micromania Athis-Mons"
+    }, 
+    {
+        "lat": 44.03128700000001, 
+        "lng": 1.3693321, 
+        "address": "Centre commercial Auchan777 AVENUE JEAN MOULIN - 82000 Montauban", 
+        "id": 201, 
+        "name": "Micromania Montauban"
+    }, 
+    {
+        "lat": 46.7911253, 
+        "lng": 1.7351321, 
+        "address": "Centre commercial AUCHAN CHATEAUROUXLes Terres Fortes 36330 LE POINCONNET - 36000 Ch\u00e2teauroux", 
+        "id": 202, 
+        "name": "Micromania Ch\u00e2teauroux"
+    }, 
+    {
+        "lat": 48.9646529, 
+        "lng": 2.2554146, 
+        "address": "Centre commercial CARREFOUR3, Rue de Horrione - 95110 Sannois", 
+        "id": 203, 
+        "name": "Micromania Sannois"
+    }, 
+    {
+        "lat": 46.25309, 
+        "lng": 4.7921938, 
+        "address": "C.C CARREFOUR Z .I Les Bouchardes RN6 - 71680 Cr\u00eaches-sur-Sa\u00f4ne", 
+        "id": 204, 
+        "name": "Micromania Cr\u00eaches-sur-Sa\u00f4ne"
+    }, 
+    {
+        "lat": 45.2032318, 
+        "lng": 5.7642629, 
+        "address": "Centre commercial Carrefour1, Boulevard des Alpes - 38240 Meylan", 
+        "id": 205, 
+        "name": "Micromania Meylan"
+    }, 
+    {
+        "lat": 48.9284732, 
+        "lng": 2.1445102, 
+        "address": "Centre commercial CARREFOUR280 av Gabriel P\u00e9ri - 78360 Montesson", 
+        "id": 206, 
+        "name": "Micromania Montesson"
+    }, 
+    {
+        "lat": 47.8098949, 
+        "lng": 7.3150806, 
+        "address": "Centre commercial WITTY 2130 ROUTE DE SOULTZ - 68270 Wittenheim", 
+        "id": 207, 
+        "name": "Micromania Wittenheim"
+    }, 
+    {
+        "lat": 47.09246, 
+        "lng": 2.419637, 
+        "address": "Centre Commercial CARREFOURCHAUSSEE DE LA CHAPPE - 18000 Bourges", 
+        "id": 208, 
+        "name": "Micromania Bourges"
+    }, 
+    {
+        "lat": 44.6385896, 
+        "lng": -0.9604075999999999, 
+        "address": "Centre commercial AUCHAN31 Rue des Fonderies lieu dit Facture - 33380 Biganos", 
+        "id": 209, 
+        "name": "Micromania Biganos"
+    }, 
+    {
+        "lat": 43.5512825, 
+        "lng": 1.5061665, 
+        "address": "Centre commercial LABEGE 2Zac la Grande Borde - 31670 Lab\u00e8ge", 
+        "id": 210, 
+        "name": "Micromania Lab\u00e8ge"
+    }, 
+    {
+        "lat": 47.4259533, 
+        "lng": 0.657903, 
+        "address": "Centre commercial AUCHANBD CHARLES DE GAULLE - 37540 Saint-Cyr-sur-Loire", 
+        "id": 211, 
+        "name": "Micromania Saint-Cyr-sur-Loire"
+    }, 
+    {
+        "lat": 46.7739383, 
+        "lng": 4.8606204, 
+        "address": "Centre Commercial Chalon sudRue Thomas Dumorey - 71100 Chalon-sur-Sa\u00f4ne", 
+        "id": 212, 
+        "name": "Micromania Chalon-sur-Sa\u00f4ne"
+    }, 
+    {
+        "lat": 48.79906219999999, 
+        "lng": 2.0372156, 
+        "address": "Centre Commercial LECLERC11 Av. Jean Jaur\u00e8s - 78390 Bois-d'Arcy", 
+        "id": 213, 
+        "name": "Micromania Bois-d'Arcy"
+    }, 
+    {
+        "lat": 49.329674, 
+        "lng": 1.0971469, 
+        "address": "Centre commercial TOURVILLE LA RIVIEREZac du Clos des Antes TOURVILLE LA RIVIERE - 76410 Cl\u00e9on", 
+        "id": 214, 
+        "name": "Micromania Cl\u00e9on"
+    }, 
+    {
+        "lat": 48.9944456, 
+        "lng": 2.198208, 
+        "address": "Centre commercial du Pav\u00e9 de Montigny - 95370 Montigny-l\u00e8s-Cormeilles", 
+        "id": 215, 
+        "name": "Micromania Montigny-l\u00e8s-Cormeilles"
+    }, 
+    {
+        "lat": 44.8141253, 
+        "lng": -0.5232926, 
+        "address": "Centre commercial AUCHAN BORDEAUX BOULIACCD 113 lieu dit Bonneau - 33270 Bouliac", 
+        "id": 216, 
+        "name": "Micromania Bouliac"
+    }, 
+    {
+        "lat": 51.0055933, 
+        "lng": 2.2776505, 
+        "address": "Centre commercial AuchanAvenue Ancien Village - 59760 Grande-Synthe", 
+        "id": 217, 
+        "name": "Micromania Grande-Synthe"
+    }, 
+    {
+        "lat": 47.9723674, 
+        "lng": 0.2198058, 
+        "address": "Centre commercial CARREFOUR309 av. Georges Durand - 72000 Le Mans", 
+        "id": 218, 
+        "name": "Micromania Le Mans"
+    }, 
+    {
+        "lat": 45.185115, 
+        "lng": 5.758381300000001, 
+        "address": "Centre commercial GEANTAVENUE GABRIEL PERI - 38400 Saint-Martin-d'H\u00e8res", 
+        "id": 219, 
+        "name": "Micromania Saint-Martin-d'H\u00e8res"
+    }, 
+    {
+        "lat": 47.21379, 
+        "lng": -1.5577658, 
+        "address": "6 place du commerce - 44000 Nantes", 
+        "id": 220, 
+        "name": "Micromania Nantes"
+    }, 
+    {
+        "lat": 47.1923136, 
+        "lng": -1.5752696, 
+        "address": "Centre commercial Leclerc Atout Sud1, Rue Ordronneau - 44400 Rez\u00e9", 
+        "id": 221, 
+        "name": "Micromania Rez\u00e9"
+    }, 
+    {
+        "lat": 45.78886300000001, 
+        "lng": 4.775018, 
+        "address": "Centre commercialCarrefour du Perollier - 69130 \u00c9cully", 
+        "id": 222, 
+        "name": "Micromania \u00c9cully"
+    }, 
+    {
+        "lat": 42.7401494, 
+        "lng": 2.8935242, 
+        "address": "Centre commercial LECLERC2130 Av. du Languedoc - 66000 Perpignan", 
+        "id": 223, 
+        "name": "Micromania Perpignan"
+    }, 
+    {
+        "lat": 45.925511, 
+        "lng": 6.124871600000001, 
+        "address": "Centre commercial CARREFOUR134, Avenue de Gen\u00e8ve - 74000 Annecy", 
+        "id": 224, 
+        "name": "Micromania Annecy"
+    }, 
+    {
+        "lat": 47.97492339999999, 
+        "lng": -4.0964516, 
+        "address": "Centre commercial GEANT QUIMPER - 29000 Quimper", 
+        "id": 225, 
+        "name": "Micromania Quimper"
+    }, 
+    {
+        "lat": 48.8713151, 
+        "lng": 2.339205600000001, 
+        "address": "5, Bld des ItaliensPassages des Princes - 75002 Paris 2e", 
+        "id": 226, 
+        "name": "Micromania Paris 2e"
+    }, 
+    {
+        "lat": 48.6689765, 
+        "lng": 2.2749063, 
+        "address": "CCial CarrefourLocal 62 - Croix St Jacques - 91620 La Ville-du-Bois", 
+        "id": 227, 
+        "name": "Micromania La Ville-du-Bois"
+    }, 
+    {
+        "lat": 43.6664225, 
+        "lng": 4.6391841, 
+        "address": "Centre commercial GEANT ARLESZone am\u00e9nagement Fourchon - 13200 Arles", 
+        "id": 228, 
+        "name": "Micromania Arles"
+    }, 
+    {
+        "lat": 48.7827963, 
+        "lng": 2.3684719, 
+        "address": "Centre commercial CARREFOUR66/67 Avenue de Stalingrad - 94800 Villejuif", 
+        "id": 229, 
+        "name": "Micromania Villejuif"
+    }, 
+    {
+        "lat": 47.2489492, 
+        "lng": -1.5160739, 
+        "address": "Centre commercial PARIDIS14 Route de Paris - 44000 Nantes", 
+        "id": 230, 
+        "name": "Micromania Nantes"
+    }, 
+    {
+        "lat": 47.907267, 
+        "lng": 1.9054767, 
+        "address": "Centre commercialPlace de l\u00b4Arc - 45000 Orl\u00e9ans", 
+        "id": 231, 
+        "name": "Micromania Orl\u00e9ans"
+    }, 
+    {
+        "lat": 45.7560441, 
+        "lng": 4.831258099999999, 
+        "address": "7 Rue Victor Hugo - 69002 Lyon 2e", 
+        "id": 232, 
+        "name": "Micromania Lyon 2e"
+    }, 
+    {
+        "lat": 48.6402118, 
+        "lng": 6.1856989, 
+        "address": "Centre commercial CORARN 57 - 54180 Houdemont", 
+        "id": 233, 
+        "name": "Micromania Houdemont"
+    }, 
+    {
+        "lat": 43.566495, 
+        "lng": 1.5175739, 
+        "address": "Centre Commercial LECLERC ORENSRoute de Revel Rocade EST - 31650 Saint-Orens-de-Gameville", 
+        "id": 234, 
+        "name": "Micromania Saint-Orens-de-Gameville"
+    }, 
+    {
+        "lat": 45.5742503, 
+        "lng": 5.9433989, 
+        "address": "Centre commercial CARREFOUR31 RUE CENTRALE - 73000 Chamb\u00e9ry", 
+        "id": 235, 
+        "name": "Micromania Chamb\u00e9ry"
+    }, 
+    {
+        "lat": 49.5206127, 
+        "lng": 0.1124932, 
+        "address": "Centre Commercial Montgaillard Grand CapRN1 - 76600 Le Havre", 
+        "id": 236, 
+        "name": "Micromania Le Havre"
+    }, 
+    {
+        "lat": 48.8116257, 
+        "lng": 2.3628116, 
+        "address": "Centre commercial OKABEAvenue de Fontainebleau - 94270 Le Kremlin-Bic\u00eatre", 
+        "id": 237, 
+        "name": "Micromania Le Kremlin-Bic\u00eatre"
+    }, 
+    {
+        "lat": 48.6880779, 
+        "lng": 6.1812553, 
+        "address": "Centre commercial SAINT SEBASTIENLocal 40 - 54000 Nancy", 
+        "id": 238, 
+        "name": "Micromania Nancy"
+    }, 
+    {
+        "lat": 47.0757175, 
+        "lng": -0.8435518999999999, 
+        "address": "Centre commercial CARREFOURRoute d\u00b4Angers Rond Point des Pagannes - 49300 Cholet", 
+        "id": 239, 
+        "name": "Micromania Cholet"
+    }, 
+    {
+        "lat": 48.629002, 
+        "lng": 2.4261331, 
+        "address": "Centre commercial REGIONAL EVRY 2Extension Niveau 84 - 91000 \u00c9vry", 
+        "id": 240, 
+        "name": "Micromania \u00c9vry"
+    }, 
+    {
+        "lat": 48.8726856, 
+        "lng": 2.3282731, 
+        "address": "Rue Caumartin - 75009 Paris 9e", 
+        "id": 241, 
+        "name": "Micromania Paris 9e"
+    }, 
+    {
+        "lat": 43.644009, 
+        "lng": 1.373299, 
+        "address": "2 ALLEE EMILE ZOLAZAC DU GRAND NOBLE - 31700 Blagnac", 
+        "id": 242, 
+        "name": "Micromania Blagnac"
+    }, 
+    {
+        "lat": 43.4197894, 
+        "lng": 5.360895, 
+        "address": "CCial avant caplocal 51 - 13480 Cabri\u00e8s", 
+        "id": 243, 
+        "name": "Micromania Cabri\u00e8s"
+    }, 
+    {
+        "lat": 49.0769303, 
+        "lng": 2.0781604, 
+        "address": "Centre commercial OSNY NORD - 95520 Osny", 
+        "id": 244, 
+        "name": "Micromania Osny"
+    }, 
+    {
+        "lat": 43.5129501, 
+        "lng": 1.3697721, 
+        "address": "Centre commercial LeclercAll\u00e9e De Fraixinet - 31120 Roques", 
+        "id": 245, 
+        "name": "Micromania Roques"
+    }, 
+    {
+        "lat": 44.3921005, 
+        "lng": 2.6026386, 
+        "address": "C.C LeclercLieut dit L\u00b4Estr\u00e9niol - 12850 Sainte-Radegonde", 
+        "id": 246, 
+        "name": "Micromania Sainte-Radegonde"
+    }, 
+    {
+        "lat": 49.0381463, 
+        "lng": 2.0814273, 
+        "address": "Centre commercial CERGY 3 - 95000 Cergy", 
+        "id": 247, 
+        "name": "Micromania Cergy"
+    }, 
+    {
+        "lat": 43.2948087, 
+        "lng": 5.4777039, 
+        "address": "Centre commercial GEANT LA VALENTINERoute de la Sabli\u00e8re - 13011 Marseille 11e", 
+        "id": 248, 
+        "name": "Micromania Marseille 11e"
+    }, 
+    {
+        "lat": 48.3927719, 
+        "lng": -4.4822805, 
+        "address": "Centre commercial COAT AR GUEVEN - 29200 Brest", 
+        "id": 249, 
+        "name": "Micromania Brest"
+    }, 
+    {
+        "lat": 45.4231907, 
+        "lng": 4.3937165, 
+        "address": "Centre Deux - 42000 Saint-\u00c9tienne", 
+        "id": 250, 
+        "name": "Micromania Saint-\u00c9tienne"
+    }, 
+    {
+        "lat": 43.292138, 
+        "lng": 5.476984, 
+        "address": "Centre commercial LE PRIMPTEMPSTRAVERSE MONTRE - 13011 Marseille 11e", 
+        "id": 251, 
+        "name": "Micromania Marseille 11e"
+    }, 
+    {
+        "lat": 47.35681839999999, 
+        "lng": 5.0516735, 
+        "address": "Centre commercial LA TOISON D\u00b4ORGrand Mail - Local 67 - 21000 Dijon", 
+        "id": 252, 
+        "name": "Micromania Dijon"
+    }, 
+    {
+        "lat": 50.73952300000001, 
+        "lng": 2.5458123, 
+        "address": "Centre commercial CARREFOURPARC D\u00b4ACTIVITES DE LA CREULE - 59190 Hazebrouck", 
+        "id": 253, 
+        "name": "Micromania Hazebrouck"
+    }, 
+    {
+        "lat": 46.48643209999999, 
+        "lng": -1.747607, 
+        "address": "Centre Commercial GEANTRoute de Talmont - 85100 Les Sables-d'Olonne", 
+        "id": 254, 
+        "name": "Micromania Les Sables-d'Olonne"
+    }, 
+    {
+        "lat": 48.8259073, 
+        "lng": 2.3933876, 
+        "address": "Centre commercial BERCY2Place de l\u00b4Europe - Local 227 - 94200 Ivry-sur-Seine", 
+        "id": 255, 
+        "name": "Micromania Ivry-sur-Seine"
+    }, 
+    {
+        "lat": 43.4438477, 
+        "lng": 6.7041981, 
+        "address": "CCial CarrefourLot 39 - 83480 Puget-sur-Argens", 
+        "id": 256, 
+        "name": "Micromania Puget-sur-Argens"
+    }, 
+    {
+        "lat": 48.7059265, 
+        "lng": 2.2527076, 
+        "address": "Centre commercial AuchanChemin Briis - 91140 Villebon-sur-Yvette", 
+        "id": 257, 
+        "name": "Micromania Villebon-sur-Yvette"
+    }, 
+    {
+        "lat": 42.7613902, 
+        "lng": 1.7607788, 
+        "address": "Centre commercial CARREFOUR Cellule 252601 Route National 20 - 45770 Saran", 
+        "id": 258, 
+        "name": "Micromania Saran"
+    }, 
+    {
+        "lat": 49.06544599999999, 
+        "lng": 2.088723, 
+        "address": "Centre Commercial LECLERCCH DES HAYETTES - CD 915 - LA CROIX ST SIMEON - 95520 Osny", 
+        "id": 259, 
+        "name": "Micromania Osny"
+    }, 
+    {
+        "lat": 47.2444893, 
+        "lng": -1.6079258, 
+        "address": "Centre commercial Espace Oc\u00e9an8 Avenue des Th\u00e9baudi\u00e8res - 44800 Saint-Herblain", 
+        "id": 260, 
+        "name": "Micromania Saint-Herblain"
+    }, 
+    {
+        "lat": 48.6767939, 
+        "lng": 2.1715273, 
+        "address": "Centre commercial LES ULISSaint Jean de Beauregard - 91940 Les Ulis", 
+        "id": 261, 
+        "name": "Micromania Les Ulis"
+    }, 
+    {
+        "lat": 48.8925978, 
+        "lng": 2.2361121, 
+        "address": "Hall RER La Grande ArcheLot 103506 - 92800 Puteaux", 
+        "id": 262, 
+        "name": "Micromania Puteaux"
+    }, 
+    {
+        "lat": 43.5336247, 
+        "lng": 5.4194822, 
+        "address": "Centre commercial GEANTROUTE DE BERRE - 13100 Aix-en-Provence", 
+        "id": 263, 
+        "name": "Micromania Aix-en-Provence"
+    }, 
+    {
+        "lat": 48.86188869999999, 
+        "lng": 2.3473911, 
+        "address": "210 Porte Lescot - 75001 Paris 1er", 
+        "id": 264, 
+        "name": "Micromania Paris 1er"
+    }, 
+    {
+        "lat": 48.0793662, 
+        "lng": -0.7994603, 
+        "address": "Centre commercial La Mayenne - 53000 Laval", 
+        "id": 265, 
+        "name": "Micromania Laval"
+    }, 
+    {
+        "lat": 48.828632, 
+        "lng": 1.961329, 
+        "address": "Centre commercial GRAND PLAISIRCh. d\u00e9partemental 161 - Local 20 - 78370 Plaisir", 
+        "id": 266, 
+        "name": "Micromania Plaisir"
+    }, 
+    {
+        "lat": 48.8279546, 
+        "lng": 2.1163488, 
+        "address": "Centre commercial R\u00e9gional de PARLY IINiveau bas 141 local postal 341 - 78150 Le Chesnay", 
+        "id": 267, 
+        "name": "Micromania Le Chesnay"
+    }, 
+    {
+        "lat": 47.466908, 
+        "lng": -0.5230412999999999, 
+        "address": "Centre commercial GEANTEspace Anjou - 75, av. Montaigne - 49000 Angers", 
+        "id": 268, 
+        "name": "Micromania Angers"
+    }, 
+    {
+        "lat": 47.99597180000001, 
+        "lng": -4.1034466, 
+        "address": "6 Rue Kereon - 29000 Quimper", 
+        "id": 269, 
+        "name": "Micromania Quimper"
+    }, 
+    {
+        "lat": 48.3062087, 
+        "lng": 4.024416100000001, 
+        "address": "Centre commercial Carrefour L\u2019Escapade - 10600 La Chapelle-Saint-Luc", 
+        "id": 270, 
+        "name": "Micromania La Chapelle-Saint-Luc"
+    }, 
+    {
+        "lat": 49.4461175, 
+        "lng": 1.0654469, 
+        "address": "Centre commercial DOCKS 76 - 76000 Rouen", 
+        "id": 271, 
+        "name": "Micromania Rouen"
+    }, 
+    {
+        "lat": 49.2832255, 
+        "lng": 3.9992385, 
+        "address": "Centre Commercial Leclerc- Rue Croix maurencienne - 51370 Saint-Brice-Courcelles", 
+        "id": 272, 
+        "name": "Micromania Saint-Brice-Courcelles"
+    }, 
+    {
+        "lat": 43.7027121, 
+        "lng": 7.2664974, 
+        "address": "35 Avenue Jean Medecin - 06000 Nice", 
+        "id": 273, 
+        "name": "Micromania Nice"
+    }, 
+    {
+        "lat": 47.2393103, 
+        "lng": 6.0215934, 
+        "address": "9 Grande Rue - 25000 Besan\u00e7on", 
+        "id": 274, 
+        "name": "Micromania Besan\u00e7on"
+    }, 
+    {
+        "lat": 50.7237259, 
+        "lng": 1.6059321, 
+        "address": "20 rue Adolphe Thiers - 62200 Boulogne-sur-Mer", 
+        "id": 275, 
+        "name": "Micromania Boulogne-sur-Mer"
+    }, 
+    {
+        "lat": 49.7726244, 
+        "lng": 4.7206699, 
+        "address": "21 Rue de la Republique - 08000 Charleville-M\u00e9zi\u00e8res", 
+        "id": 276, 
+        "name": "Micromania Charleville-M\u00e9zi\u00e8res"
+    }, 
+    {
+        "lat": 47.21503999999999, 
+        "lng": 5.947789999999999, 
+        "address": "Centre commercial Geant Casino - 25000 Besan\u00e7on", 
+        "id": 277, 
+        "name": "Micromania Besan\u00e7on"
+    }, 
+    {
+        "lat": 50.63364319999999, 
+        "lng": 3.0629293, 
+        "address": "52 rue de Bethune - 59000 Lille", 
+        "id": 278, 
+        "name": "Micromania Lille"
+    }, 
+    {
+        "lat": 44.9416587, 
+        "lng": 4.91958, 
+        "address": "Centre Commercial Valence 2 - 26000 Valence", 
+        "id": 279, 
+        "name": "Micromania Valence"
+    }, 
+    {
+        "lat": 47.224173, 
+        "lng": -1.631512, 
+        "address": "Centre Commercial Leclerc Atlantis - 44800 Saint-Herblain", 
+        "id": 280, 
+        "name": "Micromania Saint-Herblain"
+    }, 
+    {
+        "lat": 45.7635456, 
+        "lng": 4.8348628, 
+        "address": "31 rue Grenette - 69001 Lyon 1er", 
+        "id": 281, 
+        "name": "Micromania Lyon 1er"
+    }, 
+    {
+        "lat": 49.4425172, 
+        "lng": 1.0888207, 
+        "address": "20 Place de la Pucelle - 76000 Rouen", 
+        "id": 282, 
+        "name": "Micromania Rouen"
+    }, 
+    {
+        "lat": 43.52636649999999, 
+        "lng": 5.4437095, 
+        "address": "Les all\u00e9es provencales- All\u00e9e Guiseppe Verdi - 13100 Aix-en-Provence", 
+        "id": 283, 
+        "name": "Micromania Aix-en-Provence"
+    }, 
+    {
+        "lat": 49.1821908, 
+        "lng": -0.3656662, 
+        "address": "2 rue Paul Doumer - 14000 Caen", 
+        "id": 284, 
+        "name": "Micromania Caen"
+    }, 
+    {
+        "lat": 48.83633100000001, 
+        "lng": 2.2953198, 
+        "address": "365 Rue de Vaugirard - 75015 Paris 15e", 
+        "id": 285, 
+        "name": "Micromania Paris 15e"
+    }, 
+    {
+        "lat": 43.3935338, 
+        "lng": 5.1351911, 
+        "address": "Centre commercial Carrefour - 13220 Ch\u00e2teauneuf-les-Martigues", 
+        "id": 286, 
+        "name": "Micromania Ch\u00e2teauneuf-les-Martigues"
+    }, 
+    {
+        "lat": 47.7762337, 
+        "lng": -3.3429809, 
+        "address": "Centre Commercial Geant Lanester - 56600 Lanester", 
+        "id": 287, 
+        "name": "Micromania Lanester"
+    }, 
+    {
+        "lat": 49.1158906, 
+        "lng": 6.174507999999999, 
+        "address": "54 / 56 rue Serpenoise - 57000 Metz", 
+        "id": 288, 
+        "name": "Micromania Metz"
+    }, 
+    {
+        "lat": 50.3570311, 
+        "lng": 3.5245718, 
+        "address": "C.Cial PLACE D'ARMES - REZ DE CHAUSSEE - 59300 Valenciennes", 
+        "id": 289, 
+        "name": "Micromania Valenciennes"
+    }, 
+    {
+        "lat": 46.78320040000001, 
+        "lng": 4.855479799999999, 
+        "address": "59 Grande Rue - 71100 Chalon-sur-Sa\u00f4ne", 
+        "id": 290, 
+        "name": "Micromania Chalon-sur-Sa\u00f4ne"
+    }
+]
