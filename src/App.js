@@ -167,17 +167,23 @@ class App extends Component {
         this.setState({disabled: false})
     };
 
-    remove_select = (item) => {
+    remove_select = (item, bool) => {
          let list = this.state.list_store;
          let list_id = this.state.list_id;
 
-        this.state.list_store.map((game, key) => {
-            if  ( this.isEquivalent(item, this.state.list_store[key]) === true ) {
-                list.splice(key, 1);
-                list_id.splice(key, 1);
-            }
-            return list
-        });
+         if (!bool) {
+             this.state.list_store.map((game, key) => {
+                 if (this.isEquivalent(item, this.state.list_store[key]) === true) {
+                     list.splice(key, 1);
+                     list_id.splice(key, 1);
+                 }
+                 return list
+             });
+         }
+        if (bool) {
+            list = [];
+            list_id = [];
+        }
         this.setState({ list_store: list, list_id: list_id })
     };
 

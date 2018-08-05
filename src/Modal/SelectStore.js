@@ -1,6 +1,6 @@
 /*eslint no-useless-constructor: */
 import React, { Component } from 'react'
-import { Modal, Grid, List, Button, Segment} from 'semantic-ui-react'
+import { Modal, Grid, List, Button, Segment, Header, Divider} from 'semantic-ui-react'
 
 
 class SelectStore extends Component {
@@ -12,8 +12,8 @@ class SelectStore extends Component {
         this.props.onClick(item);
     };
 
-    remove_select(item) {
-        this.props.onClick2(item);
+    remove_select(item, bool) {
+        this.props.onClick2(item, bool);
     };
 
     update_State() {
@@ -29,6 +29,8 @@ class SelectStore extends Component {
                 <Modal.Content>
                     <Grid columns={2}>
                         <Grid.Column>
+                            <Header as='h4' textAlign='center' color='blue' > Cliquer sur le magasin pour l'ajouter </Header>
+
                             <Segment>
                             <List divided
                                   verticalAlign='middle'
@@ -37,7 +39,7 @@ class SelectStore extends Component {
                                     <div key={item.id}>
                                     <Button basic color='blue'
                                             fluid
-                                            onClick={() => this.handle_select(item)}
+                                            onClick={() => this.handle_select(item, false)}
                                             style={{marginBottom: '1em', minHeight: '2em'}}
                                     >
                                         <List.Content>{item.name}</List.Content>
@@ -49,11 +51,12 @@ class SelectStore extends Component {
                             </Segment>
                         </Grid.Column>
                         <Grid.Column>
+                            <Header as='h4' textAlign='center' color='teal'> Cliquer sur le magasin pour le retirer </Header>
                             <Segment>
                                 <List divided verticalAlign='middle'
                                       style={{overflowY: 'auto',  minHeight: '300px', maxHeight: '300px'}}>
                                     {item_select.map((item) =>
-                                        <Button basic color='green'
+                                        <Button basic color='teal'
                                                 fluid
                                                 onClick={() => this.remove_select(item)}
                                                 style={{marginBottom: '1em', minHeight: '2em'}}
@@ -66,7 +69,15 @@ class SelectStore extends Component {
                             </Segment>
                         </Grid.Column>
                     </Grid>
+                    <Divider hidden/>
+                    <Button floated='right'
+                            negative
+                            onClick={() => this.remove_select([], true)}
+                    >
+                        Réinitialiser la liste
+                    </Button>
                 </Modal.Content>
+                <Divider hidden/>
             </Modal>
         )
     }
