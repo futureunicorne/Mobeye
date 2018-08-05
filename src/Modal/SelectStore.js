@@ -1,3 +1,4 @@
+/*eslint no-useless-constructor: */
 import React, { Component } from 'react'
 import { Modal, Grid, List, Button, Segment} from 'semantic-ui-react'
 

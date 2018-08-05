@@ -69,7 +69,6 @@ while j < len(micromania) :
     step1 = re.search('(\d{5}?)', address).groups()
     step2 = ''.join(step1) + ','
     step3= re.sub(r'(\d{5}?)', step2, address)
-# + '&key=AIzaSyBTrOcqqUaCD5-dnFmdDbLGcEAhSkUZN5A'
     address2 = step3.replace(' -', ',')
     address_final = address2.replace(' ', '+')
     final_url = url_start + address_final
@@ -95,5 +94,5 @@ while j < len(micromania) :
 
 
 #Create data json file
-with open('datas.json', 'w') as f:
+with open('data.json', 'w') as f:
     f.write(json.dumps(micromania, indent=4))

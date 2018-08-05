@@ -70,8 +70,8 @@
         "name": "Micromania Brive-la-Gaillarde"
     }, 
     {
-        "lat": 49.20649359999999, 
-        "lng": -0.328288, 
+        "lat": 49.2068512, 
+        "lng": -0.3270382, 
         "address": "Centre commercial CARREFOURSaint Clair - 14200 H\u00e9rouville-Saint-Clair", 
         "id": 10, 
         "name": "Micromania H\u00e9rouville-Saint-Clair"
@@ -427,8 +427,8 @@
         "name": "Micromania Aulnay-sous-Bois"
     }, 
     {
-        "lat": 45.6209444, 
-        "lng": 5.2224999, 
+        "lat": 45.6226348, 
+        "lng": 5.2201148, 
         "address": "Centre commercial CARREFOURBd DE BOURGOIN - ZAC DE ST HUBERT - BP 168 - 38080 L'Isle-d'Abeau", 
         "id": 61, 
         "name": "Micromania L'Isle-d'Abeau"
@@ -560,8 +560,8 @@
         "name": "Micromania Chennevi\u00e8res-sur-Marne"
     }, 
     {
-        "lat": 50.3001369, 
-        "lng": 2.7308506, 
+        "lat": 50.30003749999999, 
+        "lng": 2.7307684, 
         "address": "Centre commercial AUCHANCENTRE COMMERCIAL AUCHAN - 62000 Arras", 
         "id": 80, 
         "name": "Micromania Arras"
@@ -791,8 +791,8 @@
         "name": "Micromania Br\u00e9tigny-sur-Orge"
     }, 
     {
-        "lat": 48.4994887, 
-        "lng": 2.5840973, 
+        "lat": 48.4917141, 
+        "lng": 2.5861039, 
         "address": "Centre commercial CARREFOURRN7 - Local 77 - BP 23 - 77190 Dammarie-les-Lys", 
         "id": 113, 
         "name": "Micromania Dammarie-les-Lys"
@@ -1253,8 +1253,8 @@
         "name": "Micromania Montigny-le-Bretonneux"
     }, 
     {
-        "lat": 48.9460116, 
-        "lng": 2.1967936, 
+        "lat": 48.94676949999999, 
+        "lng": 2.1967792, 
         "address": "Centre commercial Carrefour du PlateauAvenue Robert SCHUMAN - 78500 Sartrouville", 
         "id": 179, 
         "name": "Micromania Sartrouville"
@@ -1470,8 +1470,8 @@
         "name": "Micromania Biganos"
     }, 
     {
-        "lat": 43.5512825, 
-        "lng": 1.5061665, 
+        "lat": 43.5505337, 
+        "lng": 1.5086242, 
         "address": "Centre commercial LABEGE 2Zac la Grande Borde - 31670 Lab\u00e8ge", 
         "id": 210, 
         "name": "Micromania Lab\u00e8ge"
@@ -1547,8 +1547,8 @@
         "name": "Micromania Nantes"
     }, 
     {
-        "lat": 47.1923136, 
-        "lng": -1.5752696, 
+        "lat": 47.1940523, 
+        "lng": -1.5717549, 
         "address": "Centre commercial Leclerc Atout Sud1, Rue Ordronneau - 44400 Rez\u00e9", 
         "id": 221, 
         "name": "Micromania Rez\u00e9"

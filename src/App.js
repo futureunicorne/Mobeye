@@ -68,7 +68,7 @@ class App extends Component {
 
 
             Alert.success(<div>
-                <h4> Magasin ajoute </h4>
+                <h4> Magasin ajouté  </h4>
                 {item.name} <br/>
                 {item.address}
             </div>, {
@@ -78,7 +78,7 @@ class App extends Component {
             });
         }
         else {
-            Alert.error('Magasin déja ajouté', {
+            Alert.error('Magasin déjà ajouté', {
                 position: 'top-left',
                 effect: 'scale',
                 offset: 100
@@ -116,14 +116,15 @@ class App extends Component {
     handle_conversion = (list) => {
         let final_array = this.state.final_csv;
         list.map((item, key) => {
-            console.log(item)
+            console.log(item);
             let array = Object.keys(item).map(x => item[x]).splice(2, 3);
             let array2 = array.splice(0, 1);
             array.push(array2[0]);
             array.unshift(key);
             final_array.push(array);
+            return final_array
         });
-        this.setState({final_csv : final_array})
+        this.setState({final_csv : final_array});
 
         if (this.state.all != null)
         {
@@ -140,7 +141,7 @@ class App extends Component {
         }
         if (this.state.all === false)
         {
-            if (this.state.list_store.length != 0) {
+            if (this.state.list_store.length !== 0) {
                 let full_list = this.state.list_store;
                 this.handle_conversion(full_list)
             }
@@ -175,9 +176,9 @@ class App extends Component {
                 list.splice(key, 1);
                 list_id.splice(key, 1);
             }
+            return list
         });
         this.setState({ list_store: list, list_id: list_id })
-
     };
 
   render() {
@@ -185,18 +186,18 @@ class App extends Component {
       const {open, list_store, final_csv, open_confirm, disabled} = this.state;
       const options =  [
           {key: 'selectAll', text: 'Tous les magasins', value: 'selectAll'},
-          {key: 'selected', text: 'Les magasins selectionnes', value: 'selected'}
+          {key: 'selected', text: 'Les magasins sélectionnés', value: 'selected'}
       ];
     return (
         <div className="App">
-            <Menu fixed="top">
+            <Menu>
                 <Menu.Item  position="left">
                     <Button primary
                             onClick={() => this.setState({ open : true})}>Voir les magasins choisis</Button>
                 </Menu.Item>
                 <Menu.Item position="right"
                            fitted>
-                    <Dropdown placeholder='Telechargement Csv' search
+                    <Dropdown placeholder='Téléchargement CSV' search
                               selection
                               onChange={this.handle_option}
                               options={options}>
