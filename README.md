@@ -8,7 +8,7 @@ if you  use 'yarn' :
 
     - yarn
 
-    - yarn run data_build (To build data.json)
+    - yarn run data_build (No need to use it, data.json already exist)
 
     - yarn start
 
@@ -16,7 +16,7 @@ if you  use 'npm' :
 
     - npm install
 
-    - npm run data_build (To build data.json)
+    - npm run data_build (No need to use it, data.json already exist)
 
     - npm start
 
